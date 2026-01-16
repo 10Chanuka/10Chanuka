@@ -1,7 +1,7 @@
 <!-- ✅ Banner (Option A: Auto-generated banner — no image needed) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hello%20there!&fontAlign=50&fontAlignY=35&desc=Undergraduate%20%7C%20University%20of%20Kelaniya%20%7C%20Sri%20Lanka&descAlign=50&descAlignY=55&color=0:7F00FF,100:E100FF"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hello%20there!&fontAlign=50&fontAlignY=35&desc=I%20am%20Chanuka%20Rasun&descAlign=50&descAlignY=55&color=0:7F00FF,100:E100FF"
     alt="banner"
   />
 </p>
@@ -19,12 +19,38 @@
 - 🎓 Undergraduate at **University of Kelaniya** (Sri Lanka 🇱🇰)
 - 🌱 Currently learning **Java**, **Web Development**, and **CS fundamentals**
 - 🧠 Interested in **problem solving** and building useful student projects
+- ✨ Believer in *"Consistency beats talent"*
 - 🚧 Portfolio: **Coming soon** (I’ll add it after a few solid projects!)
 
 ---
 
-<h2 align="center">Tech Stack (Learning)</h2>
+<h2 align="center">Tech Stack (Learning & Using)</h2>
 
+
+### 💻 Programming Languages
+- Java ☕
+- Python 🐍
+- C (Basics)
+
+### 🌐 Web Development
+- HTML5
+- CSS3
+- JavaScript (Basics)
+
+### 🧰 Tools & Platforms
+- Git & GitHub
+- VS Code
+- Linux (Basics)
+
+---
+
+## 📌 Current Focus
+
+- ✔ Understanding **Programming Fundamentals**
+- ✔ Practicing **Java & Python**
+- ✔ Learning **Web Development step by step**
+- ✔ Improving **problem-solving skills**
+  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode&perline=8" />
 </p>
@@ -52,11 +78,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=10Chanuka&show_icons=true&theme=tokyonight"
     height="165"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=10Chanuka&theme=tokyonight"
     height="165"
   />
 </p>
@@ -65,7 +91,7 @@
 
 <h2 align="center">Connect</h2>
 
-- 📧 Email: your-email@example.com
+- 📧 Email: rasunchanuka20@gmail.com
 - 🌍 Location: Sri Lanka 🇱🇰
 
 <p align="center">
