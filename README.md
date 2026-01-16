@@ -13,6 +13,12 @@
     alt="typing"
   />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=10Chanuka&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://img.shields.io/github/followers/10Chanuka?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/10Chanuka?label=Stars&style=flat&color=yellow" />
+</p>
+
 
 <h2 align="center">About Me</h2>
 
