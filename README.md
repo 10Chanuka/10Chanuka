@@ -76,16 +76,8 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=10Chanuka&show_icons=true&theme=tokyonight"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=10Chanuka&theme=tokyonight"
-    height="165"
-  />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=10Chanuka&show_icons=true)
+
 
 ---
 
