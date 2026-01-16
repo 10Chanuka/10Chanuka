@@ -9,7 +9,7 @@
 <!-- ✅ Typing animation -->
 <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0DF723&width=435&lines=Hi!+I'm+CHANUKA+RASUN%F0%9F%A4%99;Electronics+%26+Computer+Sciences;Write+code%2C+break+it%2C+learn%F0%9F%91%BD;Focus.+Practice.+Improve." alt="Typing SVG" 
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0DF723&center=true&vCenter=true&width=460&lines=Hi!+I'm+CHANUKA+RASUN%F0%9F%A4%99;Electronics+%26+Computer+Science+Student;Write+code%2C+break+it%2C+learn%F0%9F%91%BD;Learning+one+step+at+a+time+%F0%9F%9A%80" alt="Typing SVG" 
         />
     </a>
 </p>
