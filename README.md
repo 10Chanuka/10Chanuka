@@ -8,8 +8,10 @@
 
 <!-- ✅ Typing animation -->
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0DF723&width=435&lines=Hi!+I'm+CHANUKA+RASUN%F0%9F%A4%99;Electronics+%26+Computer+Science+Student;Write+code%2C+break+it%2C+learn%F0%9F%91%BD;Focus.+Practice.+Improve." alt="Typing SVG" /></a>
-  />
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0DF723&width=435&lines=Hi!+I'm+CHANUKA+RASUN%F0%9F%A4%99;Electronics+%26+Computer+Sciences;Write+code%2C+break+it%2C+learn%F0%9F%91%BD;Focus.+Practice.+Improve." alt="Typing SVG" 
+        />
+    </a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=10Chanuka&label=Profile%20Views&color=blue&style=flat" />
