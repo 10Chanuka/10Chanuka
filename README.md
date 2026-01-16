@@ -8,9 +8,7 @@
 
 <!-- ✅ Typing animation -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+CHANUKA+RASUN+%F0%9F%91%8B;University+of+Kelaniya+Undergraduate+%F0%9F%8E%93;Learning+Java%2C+Web+Dev+%26+Problem+Solving+%F0%9F%9A%80;Building+projects+step+by+step+%F0%9F%94%A5"
-    alt="typing"
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0DF723&width=435&lines=Hi!+I'm+CHANUKA+RASUN%F0%9F%A4%99;Electronics+%26+Computer+Science+Student;Write+code%2C+break+it%2C+learn%F0%9F%91%BD;Focus.+Practice.+Improve." alt="Typing SVG" /></a>
   />
 </p>
 <p align="center">
