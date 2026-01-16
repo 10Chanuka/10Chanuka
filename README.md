@@ -30,7 +30,7 @@
 ### 💻 Programming Languages
 - Java ☕
 - Python 🐍
-- C (Basics)
+- C
 
 ### 🌐 Web Development
 - HTML5
@@ -76,7 +76,7 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=10Chanuka&show_icons=true)
+[![Stats](https://github-readme-stats.vercel.app/api?username=10Chanuka&show_icons=true)](https://github-readme-stats.vercel.app/api?username=10Chanuka&show_icons=true)
 
 
 ---
